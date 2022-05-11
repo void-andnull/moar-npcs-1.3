@@ -1,0 +1,3 @@
+displayName = Moar NPCs
+author = void
+version = 0.1
